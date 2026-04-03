@@ -1,16 +1,28 @@
-## Hi there 👋
+### 🤔 Who am I?
+---
+Hello! I'm **RealAkondaPvP**, a Developer and System Administrator with experience in **Minecraft client, plugin development, and server operations**. I enjoy working on innovative projects and optimizing systems for better performance and community building. I'm really into it!
+If you're interested in **Minecraft development** or have any related inquiries, feel free to reach out to me on **Discord**!
 
-<!--
-**FotisMetaii/FotisMetaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Current Projects
+---
+* **[AkCore](#)** 
+| Hub Core Developer
 
-Here are some ideas to get you started:
+* **[AkHCF](#)** 
+| HCF Core Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📜 Past Projects
+---
+* **[VenomPW (2022)](#)** Plugin Developer
+  
+* **[KatanaHCF (2019)](#)** Web/Store Developer & Staff Manager
+  
+* **[ArusPvP (2019)](#)** Co-Founder
+  
+* **[BlitzHQ (2018)](#)** Owner
+
+### 🛠️ Languages & Tools
+---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,idea,vscode,visualstudio&theme=dark" alt="Languages and Tools" />
+</p>

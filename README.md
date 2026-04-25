@@ -11,6 +11,9 @@ If you're interested in **Minecraft development** or have any related inquiries,
 * **[AkHCF](#)** 
 | HCF Core Developer
 
+* **[AkCrates](#)** 
+| Crates Core Developer
+
 ### 📜 Past Projects
 ---
 * **[VenomPW (2022)](#)** Plugin Developer

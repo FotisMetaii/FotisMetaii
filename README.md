@@ -8,11 +8,18 @@ If you're interested in **Minecraft development** or have any related inquiries,
 * **[AkCore](#)** 
 | Hub Core Developer
 
+* **[AkRanks](#)** 
+| HCF Rank Syste, Developer
+
 * **[AkHCF](#)** 
 | HCF Core Developer
 
 * **[AkCrates](#)** 
 | Crates Core Developer
+
+### 📈 Present Projects
+---
+* **[DTRZero (Present)(#)** Owner / Lead Developer
 
 ### 📜 Past Projects
 ---

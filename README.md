@@ -19,7 +19,7 @@ If you're interested in **Minecraft development** or have any related inquiries,
 
 ### 📈 Present Projects
 ---
-* **[DTRZero (Present)(#)** Owner / Lead Developer
+* **[DTRZero (2026)](#)** Owner / Lead Developer
 
 ### 📜 Past Projects
 ---
